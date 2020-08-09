@@ -1,6 +1,6 @@
 // Stwórz klasę Switch, która służy do wielokrotnej, równorzędnej walidacji 
 // - ma metodę .add w której dodajemy warunek do sprawdzenia oraz callback, który ma się wywołać jak zostanie warunek spełniony
-// - ma metodę .isValid, która iteruje po wszystkich .cases sprawdzając kążdy dodany wcześniej warunek
+// - ma metodę .isValid, która iteruje po wszystkich .cases sprawdzając każdy dodany wcześniej warunek
 // - metoda .isValid, która zwraca true jeśli wszystkie warunki będą na false
 
 // po wykonaniu w metodzie .isValid dany warunek jest usuwany z listy cases
